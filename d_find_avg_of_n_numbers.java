@@ -20,3 +20,14 @@ public class d_find_avg_of_n_numbers {
 
     }
 }
+
+# This program calculates the average of n numbers entered by the user
+# Scanner is used to take input from the keyboard
+# User first enters how many numbers (n) they want to input
+# An array is created to store those numbers
+# A variable 'sum' is used to store the total of all numbers
+# A loop runs from 1 to n to take each number as input
+# Each number is stored in the array using index (i-1)
+# At the same time, each number is added to 'sum'
+# After the loop, average is calculated using formula: sum / n
+# Finally, the average is printed on the screen
