@@ -26,3 +26,6 @@ public class i_greatest_among_n_numbers {
 
     }
 }
+
+# here I faced problem in comparing n numbers with each other.
+    # i maily face dificulty, how to run the Loop and how to set the structure in format that the output should be printed after all compairing not in every single loop.
